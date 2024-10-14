@@ -1,2 +1,2 @@
-# FinTrack
+# Doctor-G
 under development 
